@@ -23,3 +23,5 @@ NOTE : Unconflicting changes are essentially changes to the code in your forked 
 1. Once codes are chosen, delete the <b>>>>> ...</b> and <b><<<< ... </b> lines, and save the file
 1. <b>commit</b> the changes
 1. <b>push</b> the changes using Github desktop or typing <b>git push</b> in the terminal
+
+## Case 3 - Doesn't exist
