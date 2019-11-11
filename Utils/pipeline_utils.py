@@ -142,6 +142,7 @@ def onehotencode_collist(df, collist, drop_original=True):
     for col in collist:
         if col not in df.columns:
             continue
+        print(col)
         df, ohe = get_onehot_encoded(df, col, drop_original)
         encoder_list[col] = ohe
         
